@@ -1,5 +1,0 @@
--c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\CMSIS\startup -I..\..\USER\INC -I..\..\FWlib\inc -I..\..\FWlib\src 
--I C:\Keil\ARM\RV31\INC 
--I C:\Keil\ARM\CMSIS\Include 
--I C:\Keil\ARM\Inc\ST\STM32F10x 
--DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o "..\OUTPUT\dcp_max5483.o" --omf_browse "..\OUTPUT\dcp_max5483.crf" --depend "..\OUTPUT\dcp_max5483.d" "..\..\USER\SRC\dcp_max5483.c"
