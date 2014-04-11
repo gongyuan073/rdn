@@ -1,0 +1,14 @@
+..\OUTPUT\spi_flash.o: ..\..\USER\SRC\spi_flash.c
+..\OUTPUT\spi_flash.o: ..\..\USER\INC\spi_flash.h
+..\OUTPUT\spi_flash.o: C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h
+..\OUTPUT\spi_flash.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+..\OUTPUT\spi_flash.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\OUTPUT\spi_flash.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+..\OUTPUT\spi_flash.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+..\OUTPUT\spi_flash.o: C:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+..\OUTPUT\spi_flash.o: ..\..\USER\INC\stm32f10x_conf.h
+..\OUTPUT\spi_flash.o: ..\..\FWlib\inc\stm32f10x_gpio.h
+..\OUTPUT\spi_flash.o: C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h
+..\OUTPUT\spi_flash.o: ..\..\FWlib\inc\stm32f10x_rcc.h
+..\OUTPUT\spi_flash.o: ..\..\FWlib\inc\stm32f10x_spi.h
+..\OUTPUT\spi_flash.o: ..\..\FWlib\inc\stm32f10x_usart.h

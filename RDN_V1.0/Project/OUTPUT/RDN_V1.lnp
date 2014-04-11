@@ -1,0 +1,5 @@
+--cpu Cortex-M3 "..\output\startup_stm32f10x_hd.o" "..\output\main.o" "..\output\exti.o" "..\output\led.o" "..\output\key.o" "..\output\usart1.o" "..\output\dds.o" "..\output\timer.o" "..\output\stm32f10x_it.o" "..\output\control.o" "..\output\decoder.o" "..\output\ad_max186.o" "..\output\dcp_max5483.o" "..\output\misc.o" "..\output\stm32f10x_rcc.o" "..\output\stm32f10x_gpio.o" "..\output\stm32f10x_exti.o" "..\output\stm32f10x_usart.o" "..\output\stm32f10x_tim.o" "..\output\stm32f10x_spi.o" "..\output\core_cm3.o" "..\output\system_stm32f10x.o" 
+--library_type=microlib --strict --scatter "..\OUTPUT\RDN_V1.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\LIST\RDN_V1.map" -o ..\OUTPUT\RDN_V1.axf
